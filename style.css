@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+}
+.announcement maquee{
+    background-color: dodgerblue;
+}
+.clife_mainDiv{
+    border:1px;
+    border-color: cyan;
+    padding-right: 0px;
+    padding-left: 0px;
+    float:none;
+}
+.achievement_head i {
+    float:right;
+}
+.achievement_head{
+    font-size:20px;
+    padding:6px;
+    border-radius:10px;
+    margin-bottom: auto;
